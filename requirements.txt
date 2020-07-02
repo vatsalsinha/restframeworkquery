@@ -31,7 +31,7 @@ pyparsing==2.2.1
 python-dateutil==2.7.3
 python-firebase==1.2
 pytz==2018.5
-PyYAML==3.13
+PyYAML==5.1
 requests==2.23.0
 scikit-learn==0.20.0
 scipy==1.1.0
